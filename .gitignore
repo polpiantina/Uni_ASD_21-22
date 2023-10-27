@@ -1,0 +1,14 @@
+1/bin/*
+1/build/*
+2/bin/*
+2/build/*
+2/correctme.txt
+2/dictionary.txt
+
+3/classes/*
+3/build/*
+4/classes/*
+4/build/*
+
+*.csv
+
